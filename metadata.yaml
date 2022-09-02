@@ -1,5 +1,5 @@
 homepage: "https://tanelytics.com"
 documentation: "https://github.com/taneli-salonen1/sgtm-slice-string-ga4"
 versions:
-  - sha: 80ef8fb777922db9ba1a34905fdac06c8921fe36
+  - sha: 8075c26d63204949e3ace3efe8e448a0f9a83220
     changeNotes: First version
